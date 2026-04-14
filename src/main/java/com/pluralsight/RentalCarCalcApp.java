@@ -94,7 +94,7 @@ public class RentalCarCalcApp {
             optionsCost += 3.95;
         }
 
-        //genearate total options cost
+        //generate total options cost
         return  optionsCost *= numOfDays;
     }
 
